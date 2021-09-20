@@ -1,4 +1,4 @@
-# GET ALL TODOs AND CREATE A TODO WITH FORM DATA
+# GET ALL TODOs 
 
 ### DESCRIPTION
 This plugin allows the users of the application to create todos (which are like tasks). These todos can be created in an organization where it would be public and users can be assigned to it or be created for private use.
